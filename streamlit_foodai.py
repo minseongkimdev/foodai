@@ -18,8 +18,8 @@ import numpy as np
 #     ("Email", "Home phone", "Mobile phone")
 # )
 
-st.title('🎉푸드지옥🎉')
-st.header('당신만의 푸드설계앱 foodhell😊')
+st.title('🎉푸드천국🎉')
+st.header('당신만의 푸드설계앱 foodheaven😊')
 
 with st.expander('서비스 소개 더보기'):
     st.write("""
